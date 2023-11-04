@@ -20,7 +20,7 @@ bash file_name.sh
 python setup.py install    
 ```
 
-# another way we can mention -e . in your requirement file and we can run 
+# another way we can mention -e . in our requirement file and we can run 
 
 ```
 pip install -r requirements.txt
