@@ -25,3 +25,13 @@ python setup.py install
 ```
 pip install -r requirements.txt
 ```
+
+```
+COPY . ./    
+copy from current directory to working directory
+```
+
+```
+in .yaml we write the configuration in key:value form 
+ECR- Elastic Container Registry 
+```
