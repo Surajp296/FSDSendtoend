@@ -5,4 +5,9 @@ ipykernel
 seaborn
 Flask
 
--e .
+
+#this is more stable version
+mlflow==2.2.2
+dvc
+
+#-e .
